@@ -1,0 +1,3 @@
+master:
+  - any:
+    - base-branch: 'master'
