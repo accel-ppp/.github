@@ -1,3 +1,3 @@
-master:
+current:
   - any:
-    - base-branch: 'master'
+    - base-branch: 'current'
